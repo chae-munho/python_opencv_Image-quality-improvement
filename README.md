@@ -15,3 +15,4 @@ pip install opencv-contrib-python
 python -m pip install --upgrade pip
 
 
+<img width="1747" height="867" alt="Image" src="https://github.com/user-attachments/assets/8dbb1546-079b-425b-9a62-8c050f0f9f6e" />
